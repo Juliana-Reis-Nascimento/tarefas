@@ -28,7 +28,11 @@ Aplicar na prática conceitos de desenvolvimento web e engenharia de software, u
 * JavaScript
 
 ---
+## 🖥️ Demonstração
 
+🔗 Projeto online: [Clique aqui para acessar](https://tarefas-sigma-pearl.vercel.app/)
+
+---
 ## 🧠 Conceitos aplicados
 
 ### ✔️ Arquitetura de Software
