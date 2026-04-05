@@ -1,23 +1,33 @@
 # 📝 Lista de Tarefas
 
+Aplicação web para organização de tarefas com persistência de dados no navegador.
+
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+
+---
+
+## 🖥️ Demonstração
+
+🔗 Projeto online: https://tarefas-sigma-pearl.vercel.app/
+
+![Preview do projeto](preview.png)
+
+---
+
 ## 📌 Sobre o projeto
 
 Este projeto consiste em uma aplicação web de lista de tarefas, desenvolvida com o objetivo de auxiliar na organização de atividades do dia a dia.
 
-O sistema permite ao usuário:
+O sistema permite:
 
 * Adicionar tarefas
 * Marcar tarefas como concluídas
 * Remover tarefas
 * Visualizar contagem de tarefas totais, concluídas e pendentes
 * Limpar todas as tarefas
-* Persistência de dados com armazenamento local (localStorage)
-
----
-
-## 🎯 Objetivo
-
-Aplicar na prática conceitos de desenvolvimento web e engenharia de software, utilizando tecnologias básicas do frontend.
+* Persistir dados utilizando localStorage
 
 ---
 
@@ -28,73 +38,67 @@ Aplicar na prática conceitos de desenvolvimento web e engenharia de software, u
 * JavaScript
 
 ---
-## 🖥️ Demonstração
 
-🔗 Projeto online: [Clique aqui para acessar](https://tarefas-sigma-pearl.vercel.app/)
-
----
 ## 🧠 Conceitos aplicados
 
 ### ✔️ Arquitetura de Software
 
-A aplicação segue uma arquitetura simples de frontend, com separação de responsabilidades:
+A aplicação segue uma arquitetura simples de frontend:
 
-* **HTML:** estrutura da aplicação
-* **CSS:** estilização da interface
-* **JavaScript:** lógica e interatividade
+* HTML: estrutura
+* CSS: estilização
+* JavaScript: lógica
 
 ---
 
 ### ✔️ Ciclo de Vida do Software
 
-O desenvolvimento do sistema seguiu etapas básicas:
+O desenvolvimento seguiu etapas básicas:
 
-1. Levantamento de requisitos
-2. Planejamento da interface
-3. Desenvolvimento da aplicação
-4. Testes funcionais
-5. Ajustes e melhorias
-
----
-
-### ✔️ Metodologia de Desenvolvimento
-
-O projeto se aproxima do modelo ágil, pois foi desenvolvido de forma incremental, permitindo melhorias contínuas ao longo do processo.
+1. Planejamento
+2. Desenvolvimento
+3. Testes
+4. Melhorias
 
 ---
 
-### ✔️ Funcionalidades
+### ✔️ Metodologia
 
-* Adicionar nova tarefa
-* Marcar tarefa como concluída
-* Remover tarefa individual
-* Limpar todas as tarefas
-* Contador automático de tarefas
-* Armazenamento no navegador (localStorage)
+O projeto se aproxima do modelo ágil, com evolução incremental.
+
+---
+
+## ⚙️ Funcionalidades
+
+* Adicionar tarefas
+* Marcar como concluída
+* Remover tarefas
+* Limpar lista
+* Contador automático
+* Persistência com localStorage
 
 ---
 
 ## 💡 Melhorias futuras
 
-* Filtro de tarefas (todas / concluídas / pendentes)
+* Filtro de tarefas
 * Edição de tarefas
-* Integração com banco de dados
-* Sistema de login
-* Versão mobile mais avançada
+* Banco de dados
+* Login de usuário
 
 ---
 
-## ▶️ Como executar o projeto
+## ▶️ Como executar
 
-1. Baixe ou clone este repositório:
+1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Juliana-Reis-Nascimento/tarefas.git
 ```
 
 2. Abra o arquivo:
 
-```
+```bash
 index.html
 ```
 
@@ -103,9 +107,3 @@ index.html
 ## 👩‍💻 Desenvolvido por
 
 Juliana Reis
-
----
-
-## ⭐ Considerações finais
-
-Este projeto foi desenvolvido como prática acadêmica, com foco no aprendizado de conceitos fundamentais de desenvolvimento web e organização de código.
