@@ -129,3 +129,26 @@ input:focus {
   text-decoration: line-through;
   color: gray;
 }
+
+#limpar {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 15px;
+  border: none;
+  background-color: #757575;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+#limpar:hover {
+  background-color: #616161;
+}
+
+#vazio {
+  text-align: center;
+  color: #888;
+  margin-bottom: 15px;
+  font-size: 14px;
+}
