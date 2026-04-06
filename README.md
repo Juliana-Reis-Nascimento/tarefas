@@ -10,7 +10,8 @@ Aplicação web para organização de tarefas com persistência de dados no nave
 
 ## 🖥️ Demonstração
 
-🔗 Projeto online: https://tarefas-sigma-pearl.vercel.app/
+Vercel: https://tarefas-sigma-pearl.vercel.app/
+GitHub Pages: https://juliana-reis-nascimento.github.io/tarefas/
 
 ---
 
